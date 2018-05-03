@@ -4,6 +4,7 @@
    <name>SampleTestSuite1</name>
    <tag></tag>
    <isRerun>false</isRerun>
+   <lastRun>2018-05-02T21:27:11</lastRun>
    <mailRecipient>v.sivakumaar@gmail.com;</mailRecipient>
    <numberOfRerun>1</numberOfRerun>
    <pageLoadTimeout>30</pageLoadTimeout>
